@@ -1,0 +1,3 @@
+THE VOID: DEBRIS FIELD MODULE
+Version 1.0.0
+Standalone GitHub Pages / PWA build
